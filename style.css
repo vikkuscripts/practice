@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    background-color: aqua;
+    width: 14vw;
+    height: 100vh;
+}
+.sidebar nav {
+    padding: 45px;
+}
+.sidebar nav li{
+    list-style: none;
+    padding: 15px;
+}
+.main{
+    background-color: bisque;
+    width: 86vw;
+
+}
+.container{
+    display: flex;
+}
+.infocontainer{
+    background-color: rgb(255, 196, 235);
+    height: 78vh;
+    width: 80vw;
+    margin: 144px auto;
+}
